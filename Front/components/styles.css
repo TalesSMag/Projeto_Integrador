@@ -1,0 +1,10 @@
+/* styles.css */
+body {
+    background-image: url('../Castro-Alves.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+    margin: 0;
+  }
+  

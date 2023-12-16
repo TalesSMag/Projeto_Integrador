@@ -1,0 +1,244 @@
+{
+  "livros": [
+    {
+      "titulo": "O livro da Matemática",
+      "ano": " 2020",
+      "isbn": "978-6555670233",
+      "disciplina": "matematica",
+      "autor": "Globo Livros; 1ª edição",
+      "capa": "https://m.media-amazon.com/images/I/91KZXM-ojBL._SL1500_.jpg",
+      "sinopse": "Escrito em linguagem simples e acessível, O livro da matemática é ricamente composto por infográficos, ilustrações e textos atraentes. A obra é fundamental e envolvente tanto para curiosos no assunto quanto para os estudantes mais entusiasmados. O título faz parte da coleção best-seller As grandes ideias de todos os tempos que tem mais de 20 títulos publicados pela Globo Livros e assuntos tão diversos como filosofia, mitologia, psicologia, economia, sociologia e história, entre tantos outros.",
+      "classif": "portugues",
+      "id": 1
+    },
+    {
+      "titulo": "Fundamentos de matemática elementar - Volume 1: Conjuntos e funções",
+      "ano": "2019",
+      "disciplina": "matematica",
+      "isbn": " 978-8535716801",
+      "autor": " Gelson Iezzi",
+      "capa": "https://m.media-amazon.com/images/I/71KGGRF6WTL._SL1403_.jpg",
+      "sinopse": "Aborda a introdução ao conceito e os estudos das funções polinomias de 1º e 2º graus. Os capítulos iniciais (I a IV) são preparatórios para a função da Matemática no ensino médio, mas não devem tomar um tempo excessivo. O capítulo final é muito importante para a continuação do estudo de função inversa. Pode-se aproveitar o desenvolviemento de cada capítulo para revisar cálculo algébrico, principalmente em equações e inequações.",
+      "id": 2,
+      "destaque": false
+    },
+    {
+      "titulo": "O grande livro de matemática do Manual do Mundo",
+      "ano": "2022",
+      "isbn": "978-6555643367",
+      "disciplina": "matematica",
+      "autor": " Workman Publishing ",
+      "capa": "https://m.media-amazon.com/images/I/812GFKfBMpL._SL1500_.jpg",
+      "sinopse": "Anotações incríveis e divertidas para você aprender sobre o intrigante universo dos números e das formas geométricas.",
+      "classif": "portugues",
+      "id": 3
+    },
+    {
+      "titulo": "Português Sistematizado",
+      "ano": "2019",
+      "disciplina": "portugues",
+      "isbn": "9788530988135",
+      "autor": "JAMILK, Pablo",
+      "capa": "https://a-static.mlcdn.com.br/1500x1500/livro-portugues-sistematizado/livrosnainternet/131950-131951/48fe6bcc6524f0ca4fc977ebbf097a18.jpg",
+      "sinopse": "Você está buscando um livro de português para concursos que seja objetivo, simples, sem enrolação, com exercícios e que resolva a sua vida de uma vez por todas? Achou! Português Sistematizado traz técnicas, redação, interpretação, gramática e muito mais. Pablo Jamilk é um professor que decidiu atender, de uma vez por todas, o pedido de seus alunos (desesperados) por um livro que poupasse tempo de estudo. Assim, aplicou toda a sua experiência no universo dos concursos e dos vestibulares em um conteúdo que traz as melhores explicações sobre a língua portuguesa e ainda oferece exercícios para praticar. Por que ler Português Sistematizado? Neste livro, você vai encontrar não apenas toda a gramática, como também técnicas discursivas para aprender a escrever uma boa redação, além de aprender tudo sobre interpretação de textos e redação de correspondências oficiais.",
+      "id": 4
+    },
+    {
+      "titulo": "Português Descomplicado",
+      "ano": "2009",
+      "disciplina": "portugues",
+      "isbn": " 9788502092976",
+      "autor": " Carlos Pimentel",
+      "capa": "https://editoraerica.vteximg.com.br/arquivos/ids/160331-1000-1000/Portugues-Descomplicado-.jpg?v=636627575944270000",
+      "sinopse": "Um guia prático e fácil de consultar, que não só auxilia a tirar as dúvidas referentes ao uso correto da língua portuguesa no dia a dia, como também explica, de uma maneira didática e simples, os principais pontos gramaticais, sempre citando exemplos retirados do cotidiano. A diagramação diferenciada e o miolo em duas cores evidenciam o assunto que está sendo abordado, agilizando a consulta, que também conta com um índice remissivo ao final do volume. Como o próprio título diz, esta obra foi elaborada para descomplicar a língua portuguesa, visando facilitar a compreensão dos leitores em relação à gramática, ortografia, acentuação gráfica, emprego do hífen, com um capítulo exclusivo destinado ao uso da crase, formação de palavras, colocação pronominal etc., abordando regras do português e suas exceções comumente tidas como difíceis e complexas.",
+      "id": 5
+    },
+    {
+      "titulo": "Português ou brasileiro? ",
+      "ano": "2001",
+      "disciplina": "portugues",
+      "isbn": "858845601X",
+      "autor": " Marcos Bagno",
+      "capa": "https://m.media-amazon.com/images/I/616CBAjzcrS._SL1500_.jpg",
+      "sinopse": "A obra analisa cinco casos sintáticos do português do Brasil que marcam nitidamente as diferenças entre o português de Portugal e o nosso. Ao tratar do português do Brasil de modo didático e aberto às questões mais candentes em sociolinguística, Bagno escreve um livro indispensável para professores de língua de todos os níveis [do ensino fundamental ao ensino pós-graduado] e para estudantes a partir do ensino médio. Aliando a metodologia da sociolinguística quantitativa a análises linguísticas de cunho funcionalista (apelando sempre à interface sintaxe-semântica-pragmática), além de contar também um pouco da história da gramática tradicional e da linguística moderna, o livro procura introduzir a prática da pesquisa linguística em sala de aula como ferramenta indispensável para o conhecimento mais acurado e menos impressionista da realidade da língua falada (e escrita) pelos brasileiros cultos, segundo a classificação de falante culto já consagrada na pesquisa sociolinguística brasileira. Marcos Bagno acredita que esse conhecimento possa levar à revisão dos conceitos tradicionais de \"certo\" e de \"errado\" que ainda vigoram no senso comum e na prática pedagógica, onde muitas opções sintáticas que já se tornaram regras gramaticais efetivas do português culto brasileiro ainda são consideradas \"erradas\" .Um livro que vem se destacando como referência obrigatória nos cursos de letras de todo o país.",
+      "id": 6
+    },
+    {
+      "titulo": "O Livro Didático De Português",
+      "ano": "2003",
+      "disciplina": "portugues",
+      "autor": "Angela Paiva Dionisio E Maria Auxiliadora Bezerra",
+      "capa": "https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_fd067c048e29c0a4051c65d22cd22114a352bd4e.jpg",
+      "sinopse": "O presente texto é um recorte da pesquisa em desenvolvimento: “Nas páginas dos livros didáticos de língua portuguesa do sexto ano: uma reflexão sobre os gêneros multimodais”. O objetivo deste estudo é analisar e compreender o uso dos gêneros multimodais em livros didáticos de Língua Portuguesa do sexto ano do Ensino Fundamental. A pesquisa vincula-se na área de Linguística Aplicada, abordagem qualitativa e cunho documental. A fundamentação teórica pautou-se em: Bakhtin (2003); Bezerra (2010); Bittencourt (2008, 2020); Bunzen e Abreu-Tardelli (2020); Cassiano (2013); Freitag, Motta e Costa (1997); Gualberto, Pimenta e Santos (2018); Kress e Leeuwen (1996); Munakata (2012); Razzini (2000); Rojo e Moura (2012) e Soares (2002). O estudo encontra-se em fase de conclusão. Até o momento, verificou-se que as fontes documentais analisadas apresentaram o estudo dos gêneros textuais como protagonistas de capítulos e unidades. Especificamente acerca dos gêneros multimodais, objeto de estudo, percebeu-se o trabalho com HQs, anúncio publicitário, propaganda e poema visual, ciberpoema e infográfico como parte integrante de capítulo.",
+      "classif": "portugues",
+      "isbn": "9788586930140",
+      "id": 7,
+      "destaque": false
+    },
+    {
+      "titulo": "O livro da história",
+      "ano": "2017",
+      "disciplina": "historia",
+      "isbn": "978-8525064141",
+      "autor": " Globo Livros; 1ª edição ",
+      "capa": "https://m.media-amazon.com/images/I/91e8IermsQS._SL1500_.jpg",
+      "sinopse": "Escrito em linguagem simples e acessível, O livro da história é ricamente composto por infográficos, ilustrações e textos atraentes. A obra é fundamental e envolvente tanto para curiosos no assunto quanto para os estudantes mais entusiasmados. O título faz parte da coleção best-seller As grandes ideias de todos os tempos que tem mais de 20 títulos publicados pela Globo Livros e assuntos tão diversos como psicologia, mitologia, filosofia, mitologia, sociologia e história, entre tantos outros.",
+      "id": 8
+    },
+    {
+      "titulo": "Chernobyl 01:23:40",
+      "ano": "2019",
+      "disciplina": "portugues",
+      "autor": " Andrew Leatherbarrow",
+      "capa": "https://m.media-amazon.com/images/I/71RR7b+bnfL._SL1500_.jpg",
+      "sinopse": "\"O maior desastre nuclear da história “Uma fantástica combinação de relato de viagem e um relato ­histórico e científico que reconta o desastre de Chernobyl. [...] Compre este livro!” Craig Mazin, diretor da série “Chernobyl” À 01:23:40 do dia 26 de abril de 1986, o engenheiro de turbinas Aleksandr Akimov apertou o botão de emergência do reator da Unidade 4 da usina de Chernobyl após um desastroso teste, e o planeta nunca mais foi o mesmo. A ação desencadeou a explosão do reator e consequentemente o pior acidente nuclear da ­história, abafado por dias pelo regime soviético. Milhares de pessoas ­morreram, centenas de milhares foram afetadas e outras tantas padecem até hoje devido à contaminação pela radiação liberada. Andrew Leatherbarrow, fascinado por essa catástrofe que tornou parte da Europa inabitável pelos próximos dez mil anos, traz aqui um relato único sobre o que realmente aconteceu em Chernobyl naquela madrugada e seus dramáticos desdobramentos na vida dos homens e mulheres. Leatherbarrow – consultor técnico da minissérie de mesmo nome da HBO – apresenta um relato claro, preciso e instigante, além de mostrar o que resta hoje da cidade-fantasma de Pripyat, onde morava a maioria dos trabalhadores da planta. Uma narrativa sem igual, que recupera para as novas gerações a importância e o legado de Chernobyl.\"",
+      "classif": "historia",
+      "isbn": "978-8525438850",
+      "id": 9
+    },
+    {
+      "titulo": "Uma breve história do tempo",
+      "ano": "2015",
+      "disciplina": "historia",
+      "isbn": "978-8580576467",
+      "autor": " Stephen Hawking",
+      "capa": "https://m.media-amazon.com/images/I/61AaXcdHXKS._SL1000_.jpg",
+      "sinopse": "Uma das mentes mais geniais do mundo moderno, Stephen Hawking guia o leitor na busca por respostas a algumas das maiores dúvidas da humanidade: Qual a origem do universo? Ele é infinito? E o tempo? Sempre existiu, ou houve um começo e haverá um fim? Existem outras dimensões além das três espaciais? E o que vai acontecer quando tudo terminar?",
+      "id": 10
+    },
+    {
+      "titulo": "História antiga",
+      "ano": "2013",
+      "disciplina": "historia",
+      "isbn": "978-8572447942",
+      "autor": " Norberto Luiz Guarinello",
+      "capa": "https://m.media-amazon.com/images/I/71HD4BvAqRL._SL1438_.jpg",
+      "sinopse": "Embora seja uma disciplina consolidada em muitas universidades no mundo, não há uma definição explícita do que seja a História Antiga. Na prática, tanto no ensino como na pesquisa, a História Antiga costuma estudar os primórdios do Ocidente, após uma pré-história vaga e geral. Não é a História Antiga do mundo, portanto, mas a História de um recorte bem específico do passado: o das origens do Ocidente. Grécia e Roma ganham destaque especial. Além do conteúdo, outros temas relacionados à História Antiga são alvo de questionamento por parte dos historiadores, como a maneira de ensinar essa disciplina. É preciso reescrever essa história de um modo que faça sentido ao presente e que seja explícito. Embora não se possa mais considerar a História Antiga o início de uma História Universal, as realizações humanas que se acumularam nesse pedaço do globo – o espaço do Mediterrâneo entre os séculos X a.C. e V d.C. – são fundamentais para entendermos como o mundo contemporâneo se tornou possível. É com esse novo olhar que o autor, historiador especialista na área e professor da Universidade de São Paulo, analisa essa parte fundamental da História mundial.",
+      "id": 11
+    }
+  ],
+  "disciplina": [
+    {
+      "id": 1,
+      "descrição": "Lingua Portuguesa"
+    },
+    {
+      "id": 2,
+      "descrição": "Matemática"
+    },
+    {
+      "id": 3,
+      "descrição": "Geometria"
+    },
+    {
+      "id": 4,
+      "descrição": "Biologia"
+    },
+    {
+      "id": 5,
+      "descrição": "Física"
+    },
+    {
+      "id": 6,
+      "descrição": "Quimica"
+    },
+    {
+      "id": 7,
+      "descrição": "Filosofia"
+    },
+    {
+      "id": 8,
+      "descrição": "Sociologia"
+    },
+    {
+      "id": 9,
+      "descrição": "Inglês"
+    },
+    {
+      "id": 10,
+      "descrição": "Artes"
+    },
+    {
+      "id": 11,
+      "descrição": "História"
+    },
+    {
+      "id": 12,
+      "descrição": "Geografia"
+    },
+    {
+      "id": 13,
+      "descrição": "Espanhol"
+    },
+    {
+      "id": 14,
+      "descrição": "Ensino Religioso"
+    }
+  ],
+  "adm": [
+    {
+      "id": 1,
+      "usuario": "Administrador",
+      "senha": "Adm123"
+    }
+  ],
+  "agendamentos": [
+    {
+      "titulo": "O livro da matemática",
+      "ano": "2003",
+      "isbn": "978-6555643367",
+      "aluno": "Pedro",
+      "disciplina": "portugues",
+      "genero_livro": "classico",
+      "professor": "Angelo escuro",
+      "entrega": "2024-01-20",
+      "retirada": "2023-12-08",
+      "prevista": "2024-01-15",
+      "restricao": "nenhum",
+      "motivo_restricao": "nenhum",
+      "quantidade": "1",
+      "matricula_aluno": "999999999",
+      "capa": "https://img.freepik.com/vetores-premium/elemento-desenhado-a-mao-do-livro-aberto-no-estilo-de-desenho-doodle_582861-144.jpg?w=740",
+      "classif": "portugues",
+      "id": 3
+    },
+    {
+      "titulo": "ccccc",
+      "ano": "2009",
+      "isbn": "232323232",
+      "aluno": "Jean Chato",
+      "disciplina": "historia",
+      "genero_livro": "burro",
+      "professor": "Gladi",
+      "entrega": "2023-11-28",
+      "retirada": "2023-11-20",
+      "prevista": "2023-11-29",
+      "restricao": "nenhum",
+      "motivo_restricao": "nenhum",
+      "quantidade": "1",
+      "matricula_aluno": "666",
+      "capa": "https://a-static.mlcdn.com.br/1500x1500/livro-portugues-sistematizado/livrosnainternet/131950-131951/48fe6bcc6524f0ca4fc977ebbf097a18.jpg",
+      "classif": "portugues",
+      "id": 4
+    },
+    {
+      "titulo": "dddddd",
+      "ano": "2020",
+      "isbn": "65767575",
+      "aluno": "tales",
+      "disciplina": "portugues",
+      "genero_livro": "classico",
+      "professor": "Edécio Q Legal",
+      "entrega": "2023-11-30",
+      "retirada": "2023-11-14",
+      "prevista": "2023-11-21",
+      "restricao": "nenhum",
+      "motivo_restricao": "nenhum",
+      "quantidade": "1",
+      "matricula_aluno": "666666",
+      "capa": "https://m.media-amazon.com/images/I/812GFKfBMpL._SL1500_.jpg",
+      "classif": "portugues",
+      "id": 5
+    }
+  ]
+}
